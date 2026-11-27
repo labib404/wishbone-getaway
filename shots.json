@@ -1,0 +1,6 @@
+[
+  { "name": "1-title.jpg", "query": "?shot=title&seed=7" },
+  { "name": "2-kitchen-oven-leap.jpg", "query": "?shot=play&seed=7" },
+  { "name": "3-barn-doorway.jpg", "query": "?shot=barn&seed=7" },
+  { "name": "4-caught.jpg", "query": "?shot=end&seed=7" }
+]
